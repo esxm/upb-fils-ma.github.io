@@ -44,12 +44,12 @@ Add here the schematics with the architecture of your project. Make sure to incl
 Detail in a few words the hardware used.
 ![hardware_pic1](WhatsApp_Image_2024-05-19_at_16.45.18.jpeg)
 ![hardware_pic2](WhatsApp_Image_2024-05-19_at_16.45.21.jpeg)
-![hardware_pic3](WhatsApp Image 2024-05-19 at 16.45.21 (1).jpeg)
-![hardware_pic4](WhatsApp Image 2024-05-19 at 16.45.21 (2).jpeg)
-![hardware_pic5](WhatsApp Image 2024-05-19 at 16.45.21 (3).jpeg)
-![hardware_pic6](WhatsApp Image 2024-05-19 at 16.45.22.jpeg)
-![hardware_pic7](WhatsApp Image 2024-05-19 at 16.45.22 (1).jpeg)
-![hardware_pic8](WhatsApp Image 2024-05-19 at 16.45.22 (2).jpeg)
+![hardware_pic3](WhatsApp_Image_2024-05-19_at_16.45.21_(1).jpeg)
+![hardware_pic4](WhatsApp_Image_2024-05-19_at_16.45.21_(2).jpeg)
+![hardware_pic5](WhatsApp_Image_2024-05-19_at_16.45.21_(3).jpeg)
+![hardware_pic6](WhatsApp_Image_2024-05-19_at_16.45.22.jpeg)
+![hardware_pic7](WhatsApp_Image_2024-05-19_at_16.45.22_(1).jpeg)
+![hardware_pic8](WhatsApp_Image_2024-05-19_at_16.45.22_(2).jpeg)
 
 ### Schematics
 
