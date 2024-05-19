@@ -42,7 +42,10 @@ started to assemble the project ,figured out how to make the nfc work with the s
 
 ## Hardware
 
-Detail in a few words the hardware used.
+so there are 3 main parts beside the microcoontroller 1.servo motor , 2.nfc ,3.ultra sonic senzor
+the servo motor opens the door from the input taken from the nfc and closes the door from the input of the ultra sonic senzor
+so when the persons arrive and puts the nfc the door will open and will stay open till the senzor detects that the person entered and closes the door there are also 2 leds one lights green when the door is open and if not the other led will light red
+
 ![hardware_pic1](WhatsApp_Image_2024-05-19_at_16.45.18.jpeg)
 ![hardware_pic2](WhatsApp_Image_2024-05-19_at_16.45.21.jpeg)
 ![hardware_pic3](WhatsApp_Image_2024-05-19_at_16.45.21_(1).jpeg)
