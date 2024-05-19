@@ -45,7 +45,7 @@ Detail in a few words the hardware used.
 
 ### Schematics
 
-Place your KiCAD schematics here.
+![KiCad](image.png)
 
 ### Bill of Materials
 
