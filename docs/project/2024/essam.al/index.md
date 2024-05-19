@@ -42,8 +42,8 @@ Add here the schematics with the architecture of your project. Make sure to incl
 ## Hardware
 
 Detail in a few words the hardware used.
-![hardware_pic1](WhatsApp Image 2024-05-19 at 16.45.18.jpeg)
-![hardware_pic2](WhatsApp Image 2024-05-19 at 16.45.21.jpeg)
+![hardware_pic1](WhatsApp_Image_2024-05-19_at_16.45.18.jpeg)
+![hardware_pic2](WhatsApp_Image_2024-05-19_at_16.45.21.jpeg)
 ![hardware_pic3](WhatsApp Image 2024-05-19 at 16.45.21 (1).jpeg)
 ![hardware_pic4](WhatsApp Image 2024-05-19 at 16.45.21 (2).jpeg)
 ![hardware_pic5](WhatsApp Image 2024-05-19 at 16.45.21 (3).jpeg)
